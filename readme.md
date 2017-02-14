@@ -1,0 +1,1 @@
+Projeto simples de ecma6, exemplificando algumas novidades e funcionalidades legais que chegaram nas nossas vidas.
